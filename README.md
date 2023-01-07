@@ -23,7 +23,6 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 ## 🎡My GitHub Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahidowu&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rahidowu)  
 
 ![GitHub metrics](https://metrics.lecoq.io/rahidowu)  
 
