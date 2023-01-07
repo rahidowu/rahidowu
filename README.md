@@ -17,7 +17,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 
 ## 💬How To Reach Us:
-✔️E-Mail: **rahidowu@gmail.com**
+💌**E-Mail:** **rahidowu@gmail.com**
 
 
 ## 🎡My GitHub Stats:
