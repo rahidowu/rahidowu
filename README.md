@@ -2,7 +2,6 @@
 ![Hi There](https://github.com/rahidowu/rahidowu/blob/main/welcome1.png?raw=true)
 ![Profile views](https://gpvc.arturio.dev/rahidowu)  
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 
 ## 👇Connect With Me:
